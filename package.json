@@ -1,0 +1,20 @@
+{
+  "name": "underscored",
+  "version": "0.0.1",
+  "description": "A modern WordPress starter theme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://selrond@github.com/selrond/_d.git"
+  },
+  "keywords": [],
+  "author": "Sebastian Andil <sebastian.andil+git@gmail.com> (https://twitter.com/selrond)",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/selrond/_d/issues"
+  },
+  "homepage": "https://github.com/selrond/_d#readme"
+}
